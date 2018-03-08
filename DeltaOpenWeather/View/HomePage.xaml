@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+
+Title="Home"
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="DeltaOpenWeather.View.HomePage"
+     Appearing="ContentPage_Appearing"
+    >
+	<ContentPage.Content>
+        <StackLayout  BackgroundColor="Olive">
+        <StackLayout  BackgroundColor="Maroon" 
+                Orientation="Vertical" Padding="5,10">
+      <Label TextColor="#77d065" FontSize = "20" Text="Welcome to Delta Project." />
+      <Label TextColor="#77d065" FontSize = "20" Text="Weather Open Api" />
+    </StackLayout>
+       
+
+            <Button 
+               x:Name="btnWeather"
+                Text="Open Weather!" 
+                 HorizontalOptions="CenterAndExpand"
+                WidthRequest="300"
+                 HeightRequest="50"
+               Clicked="Handle_Clicked">>
+                </Button>
+            
+            </StackLayout>
+	</ContentPage.Content>
+</ContentPage>

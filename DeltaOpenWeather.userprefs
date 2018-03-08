@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E88BDB01-E582-44CF-AAC2-E9B5A8C2DE29}|Default">
+  <MonoDevelop.Ide.ItemProperties.DeltaOpenWeather.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6EF07FD3-654A-4675-9A7E-8F514215F89F" automaticSigning="False">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.DeltaOpenWeather.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeltaOpenWeather/View/HomePage.xaml">
+    <Files>
+      <File FileName="DeltaOpenWeather/Model/Weather.cs" Line="42" Column="8" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="DeltaOpenWeather/View/WeatherPage.xaml.cs" Line="41" Column="8" />
+      <File FileName="DeltaOpenWeather/View/WeatherPage.xaml" Line="17" Column="97" />
+      <File FileName="packages/Xam.Plugin.Geolocator.4.2.0/readme.txt" Line="41" Column="119" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="DeltaOpenWeather/View/HomePage.xaml.cs" Line="28" Column="15" />
+      <File FileName="DeltaOpenWeather/View/HomePage.xaml" Line="8" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
