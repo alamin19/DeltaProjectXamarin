@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{E88BDB01-E582-44CF-AAC2-E9B5A8C2DE29}|Default">
+﻿<Properties StartupConfiguration="{E3978E21-F69C-400D-BFFD-248D770472B5}|Default">
   <MonoDevelop.Ide.ItemProperties.DeltaOpenWeather.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6EF07FD3-654A-4675-9A7E-8F514215F89F" automaticSigning="False">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.DeltaOpenWeather.iOS>
@@ -19,5 +19,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DeltaOpenWeather.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
   <MultiItemStartupConfigurations />
 </Properties>

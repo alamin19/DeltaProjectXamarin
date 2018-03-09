@@ -11,7 +11,8 @@
 namespace DeltaOpenWeather.View {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/Amin/Projects/DeltaOpenWeather/DeltaOpenWeather/View/HomePage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/DeltaOpenWeather/View/HomePa" +
+        "ge.xaml")]
     public partial class HomePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

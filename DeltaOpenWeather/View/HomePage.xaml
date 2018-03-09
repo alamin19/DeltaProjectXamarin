@@ -8,7 +8,7 @@ Title="Home"
      Appearing="ContentPage_Appearing"
     >
 	<ContentPage.Content>
-        <StackLayout  BackgroundColor="Olive">
+        <StackLayout  BackgroundColor="Yellow">
         <StackLayout  BackgroundColor="Maroon" 
                 Orientation="Vertical" Padding="5,10">
       <Label TextColor="#77d065" FontSize = "20" Text="Welcome to Delta Project." />
