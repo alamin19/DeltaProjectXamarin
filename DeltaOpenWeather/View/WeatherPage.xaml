@@ -2,38 +2,62 @@
 <ContentPage 
    
     xmlns="http://xamarin.com/schemas/2014/forms" 
+
+    xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
     x:Class="DeltaOpenWeather.View.WeatherPage">
 	<ContentPage.Content>
 
         
-        <StackLayout>
-    <StackLayout HorizontalOptions="Start" Margin="10,10,0,0" WidthRequest="350">  
+        <StackLayout Orientation="Vertical"
+            VerticalOptions="FillAndExpand">
 
-            <Label Text="Enter Your PIN Code" FontAttributes="Bold" TextColor="White" Margin="10" x:Name="lblSearch" />  
-    <Label Text="PIN Code" TextColor="White" Margin="10" x:Name="lblPinCode" />  
-    <StackLayout Orientation="Horizontal">  
-        <Entry WidthRequest="100" x:Name="entPinCode" />  
-        <Button Text="Get Weather Info" x:Name="btnGetWeather" Clicked="btnGetWeather_Click" /> 
-            </StackLayout>  
-</StackLayout>  
+             <StackLayout  BackgroundColor="Teal" 
+                Orientation="Vertical" >
 
+                        <Label 
+                         VerticalTextAlignment="Center"
+                       HorizontalTextAlignment="Center"
+                       FontSize = "20" HeightRequest="40"
+                        Text="Weather Details" />
+    
+               </StackLayout>
+
+
+                <StackLayout VerticalOptions="StartAndExpand" Padding="30">
+        <maps:Map WidthRequest="320" HeightRequest="200"
+            x:Name="MyMap" HasZoomEnabled="true"
+            IsShowingUser="true"
+            MapType="Street"
+        />
+    </StackLayout>
+
+
+            
         
-        <StackLayout VerticalOptions="StartAndExpand">  
-    <Label Text="Location" TextColor="Black" FontSize="14" />  
-    <Label Text="" Margin="10,0,0,10" x:Name="txtLocation" />  
-    <Label Text="Temperature" TextColor="Black" FontSize="14" />  
-    <Label Text="" Margin="10,0,0,10" x:Name="txtTemperature" />  
-    <Label Text="Sunrise" TextColor="Black" FontSize="14" />  
-    <Label Text="" Margin="10,0,0,10" x:Name="txtSunrise" />  
-    <Label Text="Sunset" TextColor="Black" FontSize="14" />  
-    <Label Text="" Margin="10,0,0,10" x:Name="txtSunset" />  
-    <Label Text="Wind Speed" TextColor="Black" FontSize="14" />  
-    <Label Text="" Margin="10,0,0,10" x:Name="txtWind" />  
-    <Label Text="Humidity" TextColor="Black" FontSize="14" />  
-    <Label Text="" Margin="10,0,0,10" x:Name="txtHumidity" />   
-</StackLayout>  
+        <StackLayout 
+         Padding="10"
+         HorizontalOptions="StartAndExpand"
+         Spacing="1"
+          VerticalOptions="StartAndExpand">  
+                
+                <Label Text="Location" TextColor="Black" FontSize="14" />  
+                <Label Text=""  x:Name="txtLocation" />  
+                <Label Text="Temperature" TextColor="Black" FontSize="14" />  
+                <Label Text=""  x:Name="txtTemperature" />  
+                <Label Text="Sunrise" TextColor="Black" FontSize="14" />  
+                <Label Text=""  x:Name="txtSunrise" />  
+                <Label Text="Sunset" TextColor="Black" FontSize="14" />  
+                <Label Text=""  x:Name="txtSunset" />  
+                <Label Text="Wind Speed" TextColor="Black" FontSize="14" />  
+                <Label Text=""  x:Name="txtWind" />  
+                <Label Text="Humidity" TextColor="Black" FontSize="14" />  
+                <Label Text=""  x:Name="txtHumidity" />   
+       </StackLayout>  
 
-            </StackLayout>
+            
+
+
+        </StackLayout>
 	</ContentPage.Content>
 </ContentPage>

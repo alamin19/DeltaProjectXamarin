@@ -5,25 +5,63 @@ Title="Home"
     xmlns="http://xamarin.com/schemas/2014/forms" 
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
     x:Class="DeltaOpenWeather.View.HomePage"
-     Appearing="ContentPage_Appearing"
-    >
-	<ContentPage.Content>
-        <StackLayout  BackgroundColor="Yellow">
-        <StackLayout  BackgroundColor="Maroon" 
-                Orientation="Vertical" Padding="5,10">
-      <Label TextColor="#77d065" FontSize = "20" Text="Welcome to Delta Project." />
-      <Label TextColor="#77d065" FontSize = "20" Text="Weather Open Api" />
-    </StackLayout>
-       
+     >
 
-            <Button 
-               x:Name="btnWeather"
-                Text="Open Weather!" 
-                 HorizontalOptions="CenterAndExpand"
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="FillAndExpand">
+
+            <StackLayout  BackgroundColor="Silver" 
+                Orientation="Vertical" >
+
+                <Label 
+                    VerticalTextAlignment="Center"
+               HorizontalTextAlignment="Center"
+               FontSize = "20" HeightRequest="40"
+                Text="Welcome to Delta Project." />
+    
+               </StackLayout>
+
+       <StackLayout Spacing="10"
+                HorizontalOptions="Start" >  
+
+               <Label Text="Enter Your PIN Code" 
+                FontAttributes="Bold" 
+                 x:Name="lblSearch" />  
+   
+         <StackLayout Orientation="Horizontal">  
+               <Label Text="PIN Code" 
+                VerticalTextAlignment="Center"      
+                        x:Name="lblPinCode" />  
+
+              <Entry WidthRequest="200"
+                  VerticalOptions="Center"
+               Placeholder="e.g 20903"
+                        x:Name="entPinCode" />  
+       
+            </StackLayout>  
+
+                
+    </StackLayout>  
+            
+
+             <Button Text="Get Weather Info" 
+            x:Name="btnGetWeather" 
+                HeightRequest="35"
+                HorizontalOptions="CenterAndExpand"
                 WidthRequest="300"
-                 HeightRequest="50"
-               Clicked="Handle_Clicked">>
-                </Button>
+                TextColor="White"
+                BackgroundColor="Teal"
+            Clicked="btnGetWeather_Click" /> 
+
+
+             <Button Margin="0,10" Text="View Favourite" 
+                HeightRequest="35"
+                HorizontalOptions="CenterAndExpand"
+                WidthRequest="300"
+                TextColor="White"
+                BackgroundColor="Purple"
+                x:Name="btnFavourite" 
+            Clicked="btnFavourite_Click" /> 
             
             </StackLayout>
 	</ContentPage.Content>

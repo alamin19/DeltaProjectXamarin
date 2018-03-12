@@ -43,12 +43,10 @@
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>UIBackgroundModes</key>
-	<array>
-		<string>location</string>
-	</array>
+	<array/>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Enable Location on device</string>
+	<string>We are using your location</string>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Enable Location on device always</string>
+	<string>Can we use your location</string>
 </dict>
 </plist>

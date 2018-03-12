@@ -1,0 +1,91 @@
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/DeltaOpenWeather.Droid.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/DeltaOpenWeather.Droid.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/com.alamin.DeltaOpenWeather.apk
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/com.alamin.DeltaOpenWeather-Signed.apk
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/DeltaOpenWeather.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/FormsViewGroup.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.CurrentActivity.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Geolocator.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Permissions.Abstractions.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Permissions.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.Transition.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Maps.Android.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.GooglePlayServices.Base.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.GooglePlayServices.Maps.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.GooglePlayServices.Tasks.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/DeltaOpenWeather.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Newtonsoft.Json.xml
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.CurrentActivity.xml
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Permissions.Abstractions.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Permissions.Abstractions.xml
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Permissions.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Permissions.dll.mdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Permissions.xml
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Geolocator.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Geolocator.dll.mdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Geolocator.xml
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/FormsViewGroup.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/FormsViewGroup.dll.mdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Core.xml
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Maps.xml
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/DeltaOpenWeather.Droid.csprojResolveAssemblyReference.cache
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Basement.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Tasks.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Base.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Maps.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/DeltaOpenWeather.Droid.csproj.CoreCompileInputs.cache
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/DeltaOpenWeather.Droid.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/DeltaOpenWeather.Droid.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/android/bin/com.alamin.DeltaOpenWeather.apk
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/res/layout/tabbar.xml
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/res/layout/toolbar.xml
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/res/values/styles.xml
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/res/drawable/icon.png
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/R.cs.flag
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/uploadflags.txt
+bin/Debug/Mono.Android.pdb
+obj/Debug/linksrc/FormsViewGroup.dll.mdb
+obj/Debug/linksrc/Plugin.Geolocator.dll.mdb
+obj/Debug/linksrc/Plugin.Permissions.dll.mdb
+obj/Debug/linksrc/Xamarin.Forms.Core.dll.mdb
+obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll.mdb
+obj/Debug/linksrc/Xamarin.Forms.Xaml.dll.mdb
+obj/Debug/linksrc/DeltaOpenWeather.Droid.pdb
+obj/Debug/linksrc/DeltaOpenWeather.pdb
+obj/Debug/linksrc/Mono.Android.pdb
+obj/Debug/linksrc/Plugin.Geolocator.Abstractions.pdb
+obj/Debug/linksrc/Plugin.Permissions.Abstractions.pdb

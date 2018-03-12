@@ -50,3 +50,11 @@
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/DeltaOpenWeather/obj/Debug/DeltaOpenWeather.View.WeatherPage.xaml.g.cs
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/DeltaOpenWeather/obj/Debug/DeltaOpenWeather.dll
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/DeltaOpenWeather/obj/Debug/DeltaOpenWeather.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/DeltaOpenWeather/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/DeltaOpenWeather/bin/Debug/Xamarin.Forms.Maps.xml
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/DeltaOpenWeather/bin/Debug/SQLite-net.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/DeltaOpenWeather/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/DeltaOpenWeather/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/DeltaOpenWeather/bin/Debug/SQLitePCLRaw.core.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/DeltaOpenWeather/bin/Debug/SQLite-net.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/DeltaOpenWeather/bin/Debug/SQLite-net.xml

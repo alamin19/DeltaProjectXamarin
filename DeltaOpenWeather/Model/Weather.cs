@@ -1,8 +1,13 @@
 ﻿using System;
 namespace DeltaOpenWeather.Model
 {
-    public class Weather
+    public class WeatherModal
     {
+        public double longitute { get; set; }
+        public double latitude { get; set; }
+
+
+
         public string Title {  
         get;  
         set;  
@@ -31,7 +36,7 @@ namespace DeltaOpenWeather.Model
         get;  
         set;  
     }  
-    public Weather() {  
+    public WeatherModal() {  
         this.Title = " ";  
         this.Temperature = " ";  
         this.Wind = " ";  
