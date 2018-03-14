@@ -13,6 +13,8 @@ namespace DeltaOpenWeather.View
     public partial class HomePage : ContentPage
     {
         
+
+
         WeatherModal weather = new WeatherModal();
 
         public HomePage()
@@ -23,12 +25,12 @@ namespace DeltaOpenWeather.View
 
         }
 
-       
+
 
 
         void btnFavourite_Click(object sender, System.EventArgs e)
         {
-          
+            Navigation.PushAsync(new FavouritePage());
         }
 
          async void btnGetWeather_Click(object sender, EventArgs e)

@@ -10,6 +10,12 @@
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Geolocator.dll
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Permissions.Abstractions.dll
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Plugin.Permissions.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/SQLite-net.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/SQLitePCLRaw.core.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/SQLitePCLRaw.lib.e_sqlite3.dll
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/SQLitePCLRaw.provider.e_sqlite3.dll
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.Annotations.dll
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Android.Support.Compat.dll
@@ -59,6 +65,8 @@
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/Xamarin.Forms.Maps.xml
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/SQLite-net.pdb
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/bin/Debug/SQLite-net.xml
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/DeltaOpenWeather.Droid.csprojResolveAssemblyReference.cache
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Basement.dll
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/Droid/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Tasks.dll
@@ -89,3 +97,4 @@ obj/Debug/linksrc/DeltaOpenWeather.pdb
 obj/Debug/linksrc/Mono.Android.pdb
 obj/Debug/linksrc/Plugin.Geolocator.Abstractions.pdb
 obj/Debug/linksrc/Plugin.Permissions.Abstractions.pdb
+obj/Debug/linksrc/SQLite-net.pdb

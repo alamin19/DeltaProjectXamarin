@@ -2,14 +2,20 @@
   <MonoDevelop.Ide.ItemProperties.DeltaOpenWeather.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6EF07FD3-654A-4675-9A7E-8F514215F89F" automaticSigning="False">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.DeltaOpenWeather.iOS>
-  <MonoDevelop.Ide.Workbench ActiveDocument="DeltaOpenWeather/View/WeatherPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeltaOpenWeather/View/FavouritePage.xaml">
     <Files>
-      <File FileName="DeltaOpenWeather/View/WeatherPage.xaml.cs" Line="39" Column="15" />
-      <File FileName="DeltaOpenWeather/View/WeatherPage.xaml" Line="29" Column="49" />
-      <File FileName="DeltaOpenWeather/Model/Weather.cs" Line="7" Column="31" />
-      <File FileName="DeltaOpenWeather/View/HomePage.xaml.cs" Line="31" Column="11" />
-      <File FileName="DeltaOpenWeather/View/HomePage.xaml" Line="49" Column="34" />
-      <File FileName="DeltaOpenWeather/obj/Debug/DeltaOpenWeather.View.HomePage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="iOS/FileHelper.cs" Line="2" Column="1" />
+      <File FileName="DeltaOpenWeather/App.xaml.cs" Line="26" Column="1" />
+      <File FileName="DeltaOpenWeather/Persistence/IFileHelper.cs" Line="8" Column="2" />
+      <File FileName="DeltaOpenWeather/View/HomePage.xaml" Line="70" Column="1" />
+      <File FileName="DeltaOpenWeather/View/FavouritePage.xaml.cs" Line="22" Column="48" />
+      <File FileName="DeltaOpenWeather/Persistence/WeatherAppDatabase.cs" Line="16" Column="10" />
+      <File FileName="DeltaOpenWeather/View/WeatherPage.xaml" Line="73" Column="1" />
+      <File FileName="DeltaOpenWeather/View/WeatherPage.xaml.cs" Line="79" Column="72" />
+      <File FileName="Droid/FileHelper.cs" Line="6" Column="29" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="18" Column="12" />
+      <File FileName="DeltaOpenWeather/View/FavouritePage.xaml" Line="7" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -8,11 +8,14 @@
   <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="com.alamin.DeltaOpenWeather.permission.MAPS_RECEIVE" />
+  <uses-permission android:name="com.alamin.DeltaOpenWeather.permission.READ_GSERVICES" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <uses-feature android:name="android.hardware.location.gps" />
   <uses-feature android:name="android.hardware.location.network" />
   <application android:label="DeltaOpenWeather" android:name="md5964b956144ff21a99c28bc9aca3733f3.MainApplication" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyBxPxxZw3gE08iMwi4SWwwTbo00gIDLEEw" />
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="DeltaOpenWeather.Droid" android:theme="@style/MyTheme" android:name="md5964b956144ff21a99c28bc9aca3733f3.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

@@ -69,11 +69,11 @@
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/obj/iPhoneSimulator/Debug/DeltaOpenWeather.iOS.csprojResolveAssemblyReference.cache
-/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/obj/iPhoneSimulator/Debug/DeltaOpenWeather.iOS.csproj.CoreCompileInputs.cache
-/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/obj/iPhoneSimulator/Debug/DeltaOpenWeather.iOS.exe
-/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/obj/iPhoneSimulator/Debug/DeltaOpenWeather.iOS.pdb
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
 /Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/obj/iPhoneSimulator/Debug/DeltaOpenWeather.iOS.csprojResolveAssemblyReference.cache
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/obj/iPhoneSimulator/Debug/DeltaOpenWeather.iOS.csproj.CoreCompileInputs.cache
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/obj/iPhoneSimulator/Debug/DeltaOpenWeather.iOS.exe
+/Users/Amin/Desktop/Git Projects/DeltaProjectXamarin/iOS/obj/iPhoneSimulator/Debug/DeltaOpenWeather.iOS.pdb

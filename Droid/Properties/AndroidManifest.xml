@@ -7,5 +7,12 @@
 	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 	<uses-permission android:name="android.permission.INTERNET" />
-	<application android:label="DeltaOpenWeather"></application>
+     <uses-permission android:name="com.alamin.DeltaOpenWeather.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="com.alamin.DeltaOpenWeather.permission.READ_GSERVICES" />
+
+   <application android:label="DeltaOpenWeather">
+     <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyBxPxxZw3gE08iMwi4SWwwTbo00gIDLEEw"/> 
+
+   </application>
+    
 </manifest>

@@ -2,13 +2,13 @@
 <ContentPage 
    
     xmlns="http://xamarin.com/schemas/2014/forms" 
-
+    Title="Weather Details"
     xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
     x:Class="DeltaOpenWeather.View.WeatherPage">
 	<ContentPage.Content>
 
-        
+         <ScrollView>
         <StackLayout Orientation="Vertical"
             VerticalOptions="FillAndExpand">
 
@@ -29,8 +29,9 @@
             x:Name="MyMap" HasZoomEnabled="true"
             IsShowingUser="true"
             MapType="Street"
-        />
-    </StackLayout>
+        /> 
+
+         </StackLayout>
 
 
             
@@ -55,9 +56,19 @@
                 <Label Text=""  x:Name="txtHumidity" />   
        </StackLayout>  
 
-            
+
+             <Button Margin="10" Text="Add Favourite" 
+                HeightRequest="35"
+                HorizontalOptions="CenterAndExpand"
+                WidthRequest="300"
+                TextColor="White"
+                BackgroundColor="Purple"
+                x:Name="btnAddFavourite" 
+            Clicked="btnAddFavourite_Click" /> 
 
 
         </StackLayout>
-	</ContentPage.Content>
+
+         </ScrollView>
+    </ContentPage.Content>
 </ContentPage>

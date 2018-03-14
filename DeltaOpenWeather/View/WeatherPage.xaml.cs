@@ -7,14 +7,16 @@ using System.Net.Http;
 using DeltaOpenWeather.Model;
 using System.Threading.Tasks;
 using Xamarin.Forms.Maps;
+using DeltaOpenWeather.Persistence;
 
 namespace DeltaOpenWeather.View
 {
     public partial class WeatherPage : ContentPage
     {
-      
-
-        public WeatherPage(WeatherModal weather)
+        double longitute;
+        double latitude;
+       
+        public WeatherPage (WeatherModal weather)
         {
             InitializeComponent();
 
@@ -28,9 +30,10 @@ namespace DeltaOpenWeather.View
                 txtHumidity.Text = weather.Humidity;
                 txtSunrise.Text = weather.Sunrise;
                 txtSunset.Text = weather.Sunset;
+                longitute = weather.longitute;
+                latitude = weather.latitude;
 
-
-                var position = new Position(weather.latitude, weather.longitute); // Latitude, Longitude
+                var position = new Position(latitude, longitute); // Latitude, Longitude
 
                 MyMap.MoveToRegion(MapSpan.FromCenterAndRadius(new Position(position.Latitude, 
                                                                             position.Longitude),
@@ -51,17 +54,43 @@ namespace DeltaOpenWeather.View
 
             }
         }
-        //async void btnMapWeather_Click(object sender, System.EventArgs e)
-        //{
-        //    if (weather.latitude > 0)
-        //    {
-        //        string position = "Lat -" + weather.latitude.ToString() + "Long" + weather.longitute.ToString();
-        //        await DisplayAlert("Location", position, "OK");
-
-        //    }
 
 
-        //}
+        async  void btnAddFavourite_Click(object sender, System.EventArgs e)
+        {
+            try
+            {
+                WeatherTable weatherItem = new WeatherTable
+                {
+                    Title = txtLocation.Text,
+                    Temperature = txtTemperature.Text,
+                    Wind = txtWind.Text,
+                    Humidity = txtHumidity.Text,
+                    Sunrise = txtSunrise.Text,
+                    Sunset = txtSunset.Text,
+                    Visibility = "",
+                    Longitute = longitute,
+                    Latitude = latitude
+                };
+
+               
+
+
+                int id = await App.Database.SaveItemAsync(weatherItem);
+
+                if (id > 0)
+                {
+                    await DisplayAlert("Alert", "Favourite Added", "Ok");
+                }
+            }
+            catch (Exception ex)
+            {
+                await  DisplayAlert("Error",ex.Message,"Ok");
+            }
+
+
+        }
+
 
 
     }
